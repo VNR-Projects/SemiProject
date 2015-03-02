@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5fb9ce28-8dfa-4cff-ba9e-eb23a76842fb" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Welcome.php" />
-    </list>
+    <list default="true" id="5fb9ce28-8dfa-4cff-ba9e-eb23a76842fb" name="Default" comment="" />
     <ignored path="SemiProject.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
